@@ -1,0 +1,23 @@
+{
+    "Header": {
+        "title": "Awaken Services",
+        "paragraph": "Premium consumer goods for niche audiences."
+    },
+    "Services": [
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "DIRECT MARKETING",
+            "text": "We deliver messages that matter directly to target audiences in attractive, eye-catching formats for effective communication."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "CREATEIVE DESIGN",
+            "text": "Our in-house creative team combines a diverse range of skill sets to bring concepts to life with expressive copy and polished graphics."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "DYNAMIC RESULTS",
+            "text": "With a wealth of experience in market research and positioning, we know how to design and execute campaigns that convert."
+        }
+    ]
+}
